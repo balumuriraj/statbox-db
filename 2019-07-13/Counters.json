@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5d2a2106cee91277e0fc8309"},"field":"userId","name":"User","__v":{"$numberInt":"0"},"count":{"$numberInt":"1"}}
+{"_id":{"$oid":"5d2a212fcee91277e0fc831f"},"field":"movieId","name":"Movie","__v":{"$numberInt":"0"},"count":{"$numberInt":"2373"}}
+{"_id":{"$oid":"5d2a212fcee91277e0fc8323"},"field":"genreId","name":"Genre","__v":{"$numberInt":"0"},"count":{"$numberInt":"24"}}
+{"_id":{"$oid":"5d2a212fcee91277e0fc8328"},"field":"celebId","name":"Celeb","__v":{"$numberInt":"0"},"count":{"$numberInt":"7124"}}
+{"_id":{"$oid":"5d2a212fcee91277e0fc832c"},"field":"roleId","name":"Role","__v":{"$numberInt":"0"},"count":{"$numberInt":"35188"}}
+{"_id":{"$oid":"5d2a54dacee91277e0ff1208"},"field":"metaId","name":"Meta","__v":{"$numberInt":"0"},"count":{"$numberInt":"2"}}

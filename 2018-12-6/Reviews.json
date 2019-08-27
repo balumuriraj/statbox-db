@@ -1,0 +1,13 @@
+{"_id":{"$numberInt":"1"},"userId":{"$numberInt":"1"},"movieId":{"$numberInt":"1082"},"rating":{"$numberDouble":"0.5"},"__v":{"$numberInt":"0"}}
+{"_id":{"$numberInt":"2"},"userId":{"$numberInt":"1"},"movieId":{"$numberInt":"1081"},"rating":{"$numberDouble":"3.5"},"__v":{"$numberInt":"0"}}
+{"_id":{"$numberInt":"3"},"userId":{"$numberInt":"1"},"movieId":{"$numberInt":"4"},"rating":{"$numberInt":"2"},"__v":{"$numberInt":"0"}}
+{"_id":{"$numberInt":"4"},"userId":{"$numberInt":"1"},"movieId":{"$numberInt":"1084"},"rating":{"$numberInt":"1"},"__v":{"$numberInt":"0"}}
+{"_id":{"$numberInt":"5"},"userId":{"$numberInt":"1"},"movieId":{"$numberInt":"2"},"rating":{"$numberInt":"1"},"__v":{"$numberInt":"0"}}
+{"_id":{"$numberInt":"6"},"userId":{"$numberInt":"1"},"movieId":{"$numberInt":"5"},"rating":{"$numberDouble":"2.5"},"__v":{"$numberInt":"0"}}
+{"_id":{"$numberInt":"7"},"userId":{"$numberInt":"1"},"movieId":{"$numberInt":"33"},"rating":{"$numberDouble":"1.5"},"__v":{"$numberInt":"0"}}
+{"_id":{"$numberInt":"8"},"userId":{"$numberInt":"1"},"movieId":{"$numberInt":"1"},"rating":{"$numberInt":"3"},"__v":{"$numberInt":"0"}}
+{"_id":{"$numberInt":"9"},"userId":{"$numberInt":"1"},"movieId":{"$numberInt":"105"},"rating":{"$numberDouble":"1.5"},"__v":{"$numberInt":"0"}}
+{"_id":{"$numberInt":"10"},"userId":{"$numberInt":"1"},"movieId":{"$numberInt":"3"},"rating":{"$numberInt":"1"},"__v":{"$numberInt":"0"}}
+{"_id":{"$numberInt":"11"},"userId":{"$numberInt":"1"},"movieId":{"$numberInt":"80"},"rating":{"$numberDouble":"0.5"},"__v":{"$numberInt":"0"}}
+{"_id":{"$numberInt":"12"},"userId":{"$numberInt":"1"},"movieId":{"$numberInt":"6"},"rating":{"$numberDouble":"1.5"},"__v":{"$numberInt":"0"}}
+{"_id":{"$numberInt":"13"},"userId":{"$numberInt":"1"},"movieId":{"$numberInt":"9"},"rating":{"$numberDouble":"2.5"},"__v":{"$numberInt":"0"}}

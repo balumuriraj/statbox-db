@@ -1,0 +1,8 @@
+{"_id":{"$oid":"5c034d1c75a733577aee9647"},"count":{"$numberInt":"9"},"model":"Critic","field":"_id","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5c034d1c75a733577aee964b"},"count":{"$numberInt":"21"},"model":"Genre","field":"_id","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5c034d1c75a733577aee9648"},"count":{"$numberInt":"5417"},"model":"Celeb","field":"_id","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5c034d1c75a733577aee964a"},"count":{"$numberInt":"1149"},"model":"CriticReview","field":"_id","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5c034d1c75a733577aee9649"},"count":{"$numberInt":"1388"},"model":"Movie","field":"_id","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5c034d1c75a733577aee964c"},"count":{"$numberInt":"18197"},"model":"Role","field":"_id","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5c037addaa71ca5c531000ef"},"count":{"$numberInt":"13"},"model":"Review","field":"_id","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5c037addaa71ca5c531000f0"},"count":{"$numberInt":"1"},"model":"User","field":"_id","__v":{"$numberInt":"0"}}
